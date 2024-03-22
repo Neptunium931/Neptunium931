@@ -1,1 +1,1 @@
-[Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Neptunium93&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Neptunium93&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=Neptunium93&layout=compact)
