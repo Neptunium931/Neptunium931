@@ -1,0 +1,44 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/Neptunium931/Exegol-images/commit/a0a4f31c7446f71ef934051f8f597f4354650124\"><strong>a</strong>0a4f31c7446f71ef934051f8f597f4354650124</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Neptunium931/commit/355a73fd2328f556649b97e122cb2bf81e583f57\">355a73f</a>\n- <a href=\"https://github.com/Neptunium931/Neptunium931/commit/f9b07e5a875b9bf4555ad85010f3e9157d80ad2d\">f9b07e5</a>\n- <a href=\"https://github.com/Neptunium931/Exegol-images/commit/435df59c8904a32bbb7de3b655ecd7c30491ce3e\">435df59</a>\n- <a href=\"https://github.com/Neptunium931/Exegol-images/commit/742ebf6e08c051b699c94842c83f06a2b614c6a1\">742ebf6</a>\n- <a href=\"https://github.com/Neptunium931/Exegol-images/commit/a0a4f31c7446f71ef934051f8f597f4354650124\">a0a4f31</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Exegol-images/commit/fe96e63a9a8d3e71280a172c3684f47ccf437436\">fe96e63</a>\n- <a href=\"https://github.com/Neptunium931/Exegol-images/commit/2a9d7e299faeb9b062af98d52a48ed00e1b68945\">2a9d7e2</a>\n- <a href=\"https://github.com/Neptunium931/Exegol-images/commit/7a6fba592667531b810f3619e02c7c91d95a1d0c\">7a6fba5</a>\n- <a href=\"https://github.com/Neptunium931/cloudmapper/commit/da5f4df31a0d75f7bcc361a4fcaa5b158ee310dc\">da5f4df</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Exegol-images/commit/825894fa0b5369600e1deb65e467ec73927bda57\">825894f</a>: fix nvim instalion for arm\n- <a href=\"https://github.com/Neptunium931/Exegol-images/commit/0ce9fb1be8a1782c3b8b4acd3c158294dabc6fbe\">0ce9fb1</a>: fix? nvim instalion for arm",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-2.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"for\".",
+    "body": "My favorite commit message words are:\n\n1. for (used 22 times)\n2. add (used 17 times)\n3. fix (used 12 times)\n4. to (used 12 times)\n5. and (used 9 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  }
+]
