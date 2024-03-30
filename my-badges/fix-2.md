@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/Exegol-images/commit/825894fa0b5369600e1deb65e467ec73927bda57">825894f</a>: fix nvim instalion for arm
-- <a href="https://github.com/Neptunium931/Exegol-images/commit/0ce9fb1be8a1782c3b8b4acd3c158294dabc6fbe">0ce9fb1</a>: fix? nvim instalion for arm
+- <a href="https://github.com/Neptunium931/Exegol-docs/commit/d6a0b203e6f928ccde6a7717ca318a77f3074f11">d6a0b20</a>: fix end of line in the doc for neovim configuration
+- <a href="https://github.com/Neptunium931/Exegol-docs/commit/14f5b33358ca78f45790f8e24174a7618867f61c">14f5b33</a>: fix tip vim location and add tip for the plugins dependencies
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
