@@ -10,6 +10,7 @@
 <a href="my-badges/evening-commits.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <a href="my-badges/fix-2.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
 <a href="my-badges/public-keys-2.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-2.png?raw=true" alt="I have two public keys" title="I have two public keys" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;for&quot;." title="My favorite word is &quot;for&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/fix-3.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-3.png?raw=true" alt="I did 3 sequential fixes." title="I did 3 sequential fixes." width="64"></a>
 <!-- my-badges end -->
 

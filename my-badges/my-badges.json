@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Exegol-images/commit/fe96e63a9a8d3e71280a172c3684f47ccf437436\">fe96e63</a>\n- <a href=\"https://github.com/Neptunium931/Exegol-images/commit/2a9d7e299faeb9b062af98d52a48ed00e1b68945\">2a9d7e2</a>\n- <a href=\"https://github.com/Neptunium931/Exegol-images/commit/7a6fba592667531b810f3619e02c7c91d95a1d0c\">7a6fba5</a>\n- <a href=\"https://github.com/Neptunium931/cloudmapper/commit/da5f4df31a0d75f7bcc361a4fcaa5b158ee310dc\">da5f4df</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/e808ae79723b15ea39f7b199d438fe577bfcc0a5\">e808ae7</a>\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/627e06cc3a986fd5402c4154cb235bd732c83cc1\">627e06c</a>\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/4cb7226879cdf94c7e9afa604663e4a33ff0ad02\">4cb7226</a>\n- <a href=\"https://github.com/Neptunium931/Exegol-images/commit/fe96e63a9a8d3e71280a172c3684f47ccf437436\">fe96e63</a>\n- <a href=\"https://github.com/Neptunium931/Exegol-images/commit/2a9d7e299faeb9b062af98d52a48ed00e1b68945\">2a9d7e2</a>\n- <a href=\"https://github.com/Neptunium931/Exegol-images/commit/7a6fba592667531b810f3619e02c7c91d95a1d0c\">7a6fba5</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -37,8 +37,15 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"for\".",
-    "body": "My favorite commit message words are:\n\n1. for (used 22 times)\n2. add (used 17 times)\n3. fix (used 13 times)\n4. to (used 13 times)\n5. and (used 10 times)",
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 36 times)\n2. for (used 27 times)\n3. fix (used 20 times)\n4. to (used 17 times)\n5. and (used 14 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/os/commit/aed63e120a26d39d94adcbe6e7f8c9baf5a1b042\">aed63e1</a>: fix kernel.c\n- <a href=\"https://github.com/Neptunium931/os/commit/b42fd17deebc5e661203be85987228017529f391\">b42fd17</a>: fix grub\n- <a href=\"https://github.com/Neptunium931/os/commit/af3c1c78368fc4b4ffdf8394901fca97a734e4ac\">af3c1c7</a>: fix",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-3.png?raw=true"
   }
 ]
