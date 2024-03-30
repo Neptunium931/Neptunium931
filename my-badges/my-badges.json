@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"for\".",
-    "body": "My favorite commit message words are:\n\n1. for (used 22 times)\n2. add (used 17 times)\n3. fix (used 12 times)\n4. to (used 12 times)\n5. and (used 9 times)",
+    "body": "My favorite commit message words are:\n\n1. for (used 22 times)\n2. add (used 17 times)\n3. fix (used 13 times)\n4. to (used 13 times)\n5. and (used 10 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   }
 ]
