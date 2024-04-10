@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/4e59b4af4ccb55b6ed71b99bb6a98add0f3df761\">4e59b4a</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/72a26b5f5736b13c384010899cc0ed4399fa1b07\">72a26b5</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/30e0f0eda247c57c0e5dd53db31495971fb9359c\">30e0f0e</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/f754ad1b5ca832a7638120abe0258d19cb9ed8cc\">f754ad1</a>\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/e808ae79723b15ea39f7b199d438fe577bfcc0a5\">e808ae7</a>\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/627e06cc3a986fd5402c4154cb235bd732c83cc1\">627e06c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/61538a720ee229007aef104a1f260c3b54e90841\">61538a7</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/04192002e8c84547a9ba7ecf450d31b65e2bf53d\">0419200</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/57fd781abc5058a4ee9770f74ed7855edf5e52fb\">57fd781</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/4e59b4af4ccb55b6ed71b99bb6a98add0f3df761\">4e59b4a</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/72a26b5f5736b13c384010899cc0ed4399fa1b07\">72a26b5</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/30e0f0eda247c57c0e5dd53db31495971fb9359c\">30e0f0e</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 47 times)\n2. for (used 41 times)\n3. and (used 27 times)\n4. fix (used 25 times)\n5. to (used 24 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 48 times)\n2. for (used 42 times)\n3. and (used 27 times)\n4. to (used 26 times)\n5. fix (used 25 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
