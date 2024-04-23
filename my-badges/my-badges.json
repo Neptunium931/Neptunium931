@@ -38,14 +38,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 58 times)\n2. for (used 55 times)\n3. in (used 37 times)\n4. fix (used 36 times)\n5. to (used 32 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 58 times)\n2. for (used 56 times)\n3. fix (used 38 times)\n4. in (used 37 times)\n5. to (used 32 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/os/commit/aed63e120a26d39d94adcbe6e7f8c9baf5a1b042\">aed63e1</a>: fix kernel.c\n- <a href=\"https://github.com/Neptunium931/os/commit/b42fd17deebc5e661203be85987228017529f391\">b42fd17</a>: fix grub\n- <a href=\"https://github.com/Neptunium931/os/commit/af3c1c78368fc4b4ffdf8394901fca97a734e4ac\">af3c1c7</a>: fix",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/5861ee626cd1d35ac94dfe0b8f6d36f1291b3992\">5861ee6</a>: fix yaml for integrationTests\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/abcd3d83513123ce494edc6570081b1aa0afa8fc\">abcd3d8</a>: fix typo\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/e51039a305f72d5d9e18153f698ab97587c515c7\">e51039a</a>: fix(misc):",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-3.png?raw=true"
   },
   {
@@ -54,5 +54,12 @@
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/4c6f780779ae7d70396f0c71bb3c834d369ae87b\">4c6f780</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+  },
+  {
+    "id": "abcd-commit",
+    "tier": 4,
+    "desc": "One of my commit sha starts with \"abcd\".",
+    "body": "- <a href=\"https://github.com/Neptunium931/Csystem/commit/abcd3d83513123ce494edc6570081b1aa0afa8fc\"><strong>abcd</strong>3d83513123ce494edc6570081b1aa0afa8fc</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/abcd-commit.png?raw=true"
   }
 ]
