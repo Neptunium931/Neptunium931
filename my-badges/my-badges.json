@@ -17,14 +17,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/0545fb49b54ea2e0f8eaa77c46dd921e32428070\">0545fb4</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/61538a720ee229007aef104a1f260c3b54e90841\">61538a7</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/04192002e8c84547a9ba7ecf450d31b65e2bf53d\">0419200</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/57fd781abc5058a4ee9770f74ed7855edf5e52fb\">57fd781</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/4e59b4af4ccb55b6ed71b99bb6a98add0f3df761\">4e59b4a</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/72a26b5f5736b13c384010899cc0ed4399fa1b07\">72a26b5</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/9a3a66134fbe20760cc2734157ddc412dbdb4703\">9a3a661</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/f27866843789145d2cbb01ceb71b9804401fc7b0\">f278668</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/f41554d5fa9869e83f25f1b31ed742332b147967\">f41554d</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/0545fb49b54ea2e0f8eaa77c46dd921e32428070\">0545fb4</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/61538a720ee229007aef104a1f260c3b54e90841\">61538a7</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/04192002e8c84547a9ba7ecf450d31b65e2bf53d\">0419200</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/048ea7392733c701c333b5a2b0d73bc9fe749e0b\">048ea73</a>: fix(delFruit): fix memory leak and not pointer to free memory\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/eed73e778867f5df92cb21256aaaa68d38f05b8b\">eed73e7</a>: fix(fruit): not final refactor for linked lists\n\nnead fix delete\n=================================================================\n==133976==ERROR: AddressSanitizer: SEGV on unknown address 0x000000000018 (pc 0x55709a6aff27 bp 0x5040000513a8 sp 0x7ffec699e4a0 T0)\n==133976==The signal is caused by a WRITE memory access.\n==133976==Hint: address points to the zero page.\nf->nextFuit 0x5040000513d0\nAddressSanitizer:DEADLYSIGNAL\n=================================================================\n==133973==ERROR: AddressSanitizer: SEGV on unknown address 0x000000000018 (pc 0x56774bfc8f27 bp 0x5040000513a8 sp 0x7ffc43f2bf50 T0)\n==133973==The signal is caused by a WRITE memory access.\n==133973==Hint: address points to the zero page.\n    #0 0x56774bfc8f27 in delFruit src/protopeach.c:45\n    #1 0x56774bfc6ea5 in fruitGestion_createMultipleFruit_impl tests/server.c:135\n    #2 0x729b4275d690 in criterion_internal_test_main ../src/core/test.c:94\n    #3 0x56774bfc2d54 in fruitGestion_createMultipleFruit_jmp tests/server.c:125\n    #4 0x729b4275c95a in run_test_child ../src/core/runner_coroutine.c:230\n    #5 0x729b4276a20e in bxfi_main ../subprojects/boxfort/src/sandbox.c:57\n    #6 0x729b41e43ccf  (/usr/lib/libc.so.6+0x25ccf) (BuildId: 6542915cee3354fbcf2b3ac5542201faec43b5c9)\n    #7 0x729b41e43d89 in __libc_start_main (/usr/lib/libc.so.6+0x25d89) (BuildId: 6542915cee3354fbcf2b3ac5542201faec43b5c9)\n    #8 0x56774bfc24a4 in _start (/home/neptunium/l3/C/Csystem/criterion_tests_server+0x64a4) (BuildId: 4bd0f0a2be6a7823b1d5aa11567d105187171193)\n\nAddressSanitizer can not provide additional info.\nSUMMARY: AddressSanitizer: SEGV src/protopeach.c:45 in delFruit",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/f27866843789145d2cbb01ceb71b9804401fc7b0\">f278668</a>: fix recvfruit\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/f41554d5fa9869e83f25f1b31ed742332b147967\">f41554d</a>: fix memory leak",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
   },
   {
@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 61 times)\n2. for (used 57 times)\n3. fix (used 38 times)\n4. in (used 37 times)\n5. to (used 32 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 62 times)\n2. for (used 57 times)\n3. fix (used 40 times)\n4. in (used 37 times)\n5. to (used 32 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
