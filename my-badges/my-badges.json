@@ -61,5 +61,12 @@
     "desc": "One of my commit sha starts with \"abcd\".",
     "body": "- <a href=\"https://github.com/Neptunium931/Csystem/commit/abcd3d83513123ce494edc6570081b1aa0afa8fc\"><strong>abcd</strong>3d83513123ce494edc6570081b1aa0afa8fc</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/abcd-commit.png?raw=true"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-3.png?raw=true"
   }
 ]
