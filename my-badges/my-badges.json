@@ -10,14 +10,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/6d9b10715c18623f3a76c58fc552459a3b08be79\">6d9b107</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/04908969b951df01ac83017395e95cf0eb7b0fe2\">0490896</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/048ea7392733c701c333b5a2b0d73bc9fe749e0b\">048ea73</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/e7e5134c64ad219d850d9711e9192cecc62bc00f\">e7e5134</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/f282da868aff7b847d9fc6f990461ea6881b1f0f\">f282da8</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/78e7c2414fd92faddfb3818085e1e823ade2a7fc\">78e7c24</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/a3bf76f49a70853671d4766daf8beb95a7e08dc3\">a3bf76f</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/6d9b10715c18623f3a76c58fc552459a3b08be79\">6d9b107</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/04908969b951df01ac83017395e95cf0eb7b0fe2\">0490896</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/048ea7392733c701c333b5a2b0d73bc9fe749e0b\">048ea73</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/e7e5134c64ad219d850d9711e9192cecc62bc00f\">e7e5134</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/f282da868aff7b847d9fc6f990461ea6881b1f0f\">f282da8</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/9a3a66134fbe20760cc2734157ddc412dbdb4703\">9a3a661</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/f27866843789145d2cbb01ceb71b9804401fc7b0\">f278668</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/f41554d5fa9869e83f25f1b31ed742332b147967\">f41554d</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/0545fb49b54ea2e0f8eaa77c46dd921e32428070\">0545fb4</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/61538a720ee229007aef104a1f260c3b54e90841\">61538a7</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/04192002e8c84547a9ba7ecf450d31b65e2bf53d\">0419200</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/7697c53d274400ed622ef0689d72368577ba8670\">7697c53</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/9a3a66134fbe20760cc2734157ddc412dbdb4703\">9a3a661</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/f27866843789145d2cbb01ceb71b9804401fc7b0\">f278668</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/f41554d5fa9869e83f25f1b31ed742332b147967\">f41554d</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/0545fb49b54ea2e0f8eaa77c46dd921e32428070\">0545fb4</a>\n- <a href=\"https://github.com/Neptunium931/Csystem/commit/61538a720ee229007aef104a1f260c3b54e90841\">61538a7</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 75 times)\n2. for (used 61 times)\n3. fix (used 48 times)\n4. in (used 38 times)\n5. to (used 33 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 78 times)\n2. for (used 62 times)\n3. fix (used 49 times)\n4. in (used 38 times)\n5. to (used 33 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
