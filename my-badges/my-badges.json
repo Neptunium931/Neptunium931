@@ -24,7 +24,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Cnetworking/commit/f27866843789145d2cbb01ceb71b9804401fc7b0\">f278668</a>: fix recvfruit\n- <a href=\"https://github.com/Neptunium931/Cnetworking/commit/f41554d5fa9869e83f25f1b31ed742332b147967\">f41554d</a>: fix memory leak",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/blog/commit/ef6d92d01f1d19ca9a1e0516babc6599e2fcca00\">ef6d92d</a>: fix(auth): for use auth for isAuthenticated\n- <a href=\"https://github.com/Neptunium931/blog/commit/6cfe704af314dadec8b6aef97059a7c655ef86b3\">6cfe704</a>: fix(vite): update to vite 3.0.0",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
   },
   {
@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 84 times)\n2. for (used 65 times)\n3. fix (used 49 times)\n4. in (used 38 times)\n5. and (used 33 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 84 times)\n2. for (used 67 times)\n3. fix (used 49 times)\n4. in (used 38 times)\n5. to (used 34 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {

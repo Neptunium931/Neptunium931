@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/Cnetworking/commit/f27866843789145d2cbb01ceb71b9804401fc7b0">f278668</a>: fix recvfruit
-- <a href="https://github.com/Neptunium931/Cnetworking/commit/f41554d5fa9869e83f25f1b31ed742332b147967">f41554d</a>: fix memory leak
+- <a href="https://github.com/Neptunium931/blog/commit/ef6d92d01f1d19ca9a1e0516babc6599e2fcca00">ef6d92d</a>: fix(auth): for use auth for isAuthenticated
+- <a href="https://github.com/Neptunium931/blog/commit/6cfe704af314dadec8b6aef97059a7c655ef86b3">6cfe704</a>: fix(vite): update to vite 3.0.0
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
