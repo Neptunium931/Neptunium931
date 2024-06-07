@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/blog/commit/7fa7a24bf6596452de4e380b141ed2b9f7b433b0">7fa7a24</a>: chore(deps): update dependencies
+- <a href="https://github.com/Neptunium931/blog/commit/dfe0bc4a196f8818e062417ffe00c3021ab3b957">dfe0bc4</a>: chore(dependencies): update dependencies
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
