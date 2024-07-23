@@ -73,7 +73,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/blog/commit/b888ccac2efd5eb2901fac8098685ddf7164b8b7\">b888cca</a>: chore(dependencies): update lucid\n\nhttps://github.com/adonisjs/lucid/releases/tag/v21.0.0",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/blog/commit/34634b85aac5f1d71ce567ebeab7dbd67e94fc3d\">34634b8</a>: chore(dependencies): update dependencies",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {

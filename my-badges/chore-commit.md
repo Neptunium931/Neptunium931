@@ -4,9 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/blog/commit/b888ccac2efd5eb2901fac8098685ddf7164b8b7">b888cca</a>: chore(dependencies): update lucid
-
-https://github.com/adonisjs/lucid/releases/tag/v21.0.0
+- <a href="https://github.com/Neptunium931/blog/commit/34634b85aac5f1d71ce567ebeab7dbd67e94fc3d">34634b8</a>: chore(dependencies): update dependencies
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
