@@ -1,6 +1,3 @@
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Neptunium93&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=Neptunium93&layout=compact)
-
-
 
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
@@ -21,3 +18,4 @@
 <a href="my-badges/public-keys-4.md"><img src="https://my-badges.github.io/my-badges/public-keys-4.png" alt="I have four public keys" title="I have four public keys" width="64"></a>
 <!-- my-badges end -->
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Neptunium93&layout=compact)](https://github.com/Neptunium931)
