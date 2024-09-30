@@ -103,5 +103,12 @@
     "desc": "I pushed a commit with \"dead\" once.",
     "body": "- <a href=\"https://github.com/Neptunium931/ncc/commit/5cbc77dead744762bcc39b37fbb15cb38af060cd\">5cbc77<strong>dead</strong>744762bcc39b37fbb15cb38af060cd</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/83e641646f5553ea5b74dddcb5963f8d023a96ca\">83e6416</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   }
 ]
