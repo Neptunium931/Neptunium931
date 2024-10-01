@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 125 times)\n2. for (used 98 times)\n3. of (used 51 times)\n4. and (used 50 times)\n5. fix (used 50 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 127 times)\n2. for (used 99 times)\n3. and (used 51 times)\n4. of (used 51 times)\n5. fix (used 50 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -108,7 +108,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/83e641646f5553ea5b74dddcb5963f8d023a96ca\">83e6416</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/76a07ef39f0725422ed0d5fc8ba2b44846bc5247\">76a07ef</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/83e641646f5553ea5b74dddcb5963f8d023a96ca\">83e6416</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/0b2caf6228c01026e97f1ff4dda8a3ac1a35205d\">0b2caf6</a>: fix(strndup): remove hack for copy a valide size\n- <a href=\"https://github.com/Neptunium931/ncc/commit/7b120513a4de84c8f993e41d56656ca02aa6b8ff\">7b12051</a>: fix(lexer): add check is word is started if not ignore endWord\n- <a href=\"https://github.com/Neptunium931/ncc/commit/76a07ef39f0725422ed0d5fc8ba2b44846bc5247\">76a07ef</a>: fix(strndup): strndup copy one more char\n- <a href=\"https://github.com/Neptunium931/ncc/commit/83e641646f5553ea5b74dddcb5963f8d023a96ca\">83e6416</a>: fix(strndup): strndup copy one more char",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
   }
 ]
