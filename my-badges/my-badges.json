@@ -10,7 +10,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/f7f2f2655a4350601cac133d6266ea30c31382bc\">f7f2f26</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/f46d28f0f8bb93614f6dfad49d284a5ce2927e1f\">f46d28f</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/6a79c630555e0470983fa6c05ee5434e2e4c1ef0\">6a79c63</a>\n- <a href=\"https://github.com/Neptunium931/nbs/commit/7d73007ba608a1bfc8921a52996e89b0864c5840\">7d73007</a>\n- <a href=\"https://github.com/Neptunium931/nbs/commit/d1caf956ce1ce3a4b1c3b5cc0f48a8828a7fb054\">d1caf95</a>\n- <a href=\"https://github.com/Neptunium931/nbs/commit/d4cd49f38885b6933e5ba807ebe913a99cf69140\">d4cd49f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/70591a70939ad42d4c9569fbb08f2d4e4fb2efd4\">70591a7</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/9eddbb6b6d28b744631a89b183ae3befcbfb8bdb\">9eddbb6</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/369566ca7656bae7123bb74b3591a970fe32292d\">369566c</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/df4d070a15c59c7184eac4ed2d449ce5ca62fa40\">df4d070</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/f7f2f2655a4350601cac133d6266ea30c31382bc\">f7f2f26</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/f46d28f0f8bb93614f6dfad49d284a5ce2927e1f\">f46d28f</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 127 times)\n2. for (used 99 times)\n3. and (used 51 times)\n4. of (used 51 times)\n5. fix (used 50 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 130 times)\n2. for (used 101 times)\n3. of (used 57 times)\n4. and (used 53 times)\n5. fix (used 50 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
