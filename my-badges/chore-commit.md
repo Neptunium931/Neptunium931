@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/blog/commit/34634b85aac5f1d71ce567ebeab7dbd67e94fc3d">34634b8</a>: chore(dependencies): update dependencies
+- <a href="https://github.com/Neptunium931/nCook/commit/d7cc1f74a797bdbdd2780b6a8b64a3a12131005a">d7cc1f7</a>: chore(nCook): create table with 3 Column
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

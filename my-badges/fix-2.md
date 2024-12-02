@@ -4,8 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/blog/commit/ef6d92d01f1d19ca9a1e0516babc6599e2fcca00">ef6d92d</a>: fix(auth): for use auth for isAuthenticated
-- <a href="https://github.com/Neptunium931/blog/commit/6cfe704af314dadec8b6aef97059a7c655ef86b3">6cfe704</a>: fix(vite): update to vite 3.0.0
+- <a href="https://github.com/Neptunium931/nCook/commit/75b945a3882ff9094c8e537d868fc489634da4bb">75b945a</a>: fix(ci): update token name
+- <a href="https://github.com/Neptunium931/nCook/commit/376efedf9e4058f6d1ee32bcc47b2765c8691952">376efed</a>: fix(ci): add dependencies for build test
+
+install libcriterion-dev
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

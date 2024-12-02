@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/Neptunium931/os/commit/a7ff0738f87701933e5b6706f73058abe535a922\"><strong>a</strong>7ff0738f87701933e5b6706f73058abe535a922</a>",
+    "body": "- <a href=\"https://github.com/Neptunium931/Exegol-images/commit/a0a4f31c7446f71ef934051f8f597f4354650124\"><strong>a</strong>0a4f31c7446f71ef934051f8f597f4354650124</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -24,15 +24,8 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/blog/commit/ef6d92d01f1d19ca9a1e0516babc6599e2fcca00\">ef6d92d</a>: fix(auth): for use auth for isAuthenticated\n- <a href=\"https://github.com/Neptunium931/blog/commit/6cfe704af314dadec8b6aef97059a7c655ef86b3\">6cfe704</a>: fix(vite): update to vite 3.0.0",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/nCook/commit/75b945a3882ff9094c8e537d868fc489634da4bb\">75b945a</a>: fix(ci): update token name\n- <a href=\"https://github.com/Neptunium931/nCook/commit/376efedf9e4058f6d1ee32bcc47b2765c8691952\">376efed</a>: fix(ci): add dependencies for build test\n\ninstall libcriterion-dev",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
-    "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-2.png?raw=true"
   },
   {
     "id": "favorite-word",
@@ -73,7 +66,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/blog/commit/34634b85aac5f1d71ce567ebeab7dbd67e94fc3d\">34634b8</a>: chore(dependencies): update dependencies",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/nCook/commit/d7cc1f74a797bdbdd2780b6a8b64a3a12131005a\">d7cc1f7</a>: chore(nCook): create table with 3 Column",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -89,13 +82,6 @@
     "desc": "I made an epic commit with a message over 500 chars.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Cnetworking/commit/eed73e778867f5df92cb21256aaaa68d38f05b8b\">eed73e7</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "public-keys-4",
-    "tier": 4,
-    "desc": "I have four public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
   },
   {
     "id": "dead-commit",
