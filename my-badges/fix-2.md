@@ -4,10 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/nCook/commit/75b945a3882ff9094c8e537d868fc489634da4bb">75b945a</a>: fix(ci): update token name
-- <a href="https://github.com/Neptunium931/nCook/commit/376efedf9e4058f6d1ee32bcc47b2765c8691952">376efed</a>: fix(ci): add dependencies for build test
-
-install libcriterion-dev
+- <a href="https://github.com/Neptunium931/nCook/commit/55cb7a28711e6f57a945739273297889c16f30c1">55cb7a2</a>: fix(codecov): install libsqlite3-dev
+- <a href="https://github.com/Neptunium931/nCook/commit/3c2553b453cb3097c7c179aa8862ef362f2363ca">3c2553b</a>: fix: name of db file
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

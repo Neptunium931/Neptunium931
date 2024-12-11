@@ -24,14 +24,14 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/nCook/commit/75b945a3882ff9094c8e537d868fc489634da4bb\">75b945a</a>: fix(ci): update token name\n- <a href=\"https://github.com/Neptunium931/nCook/commit/376efedf9e4058f6d1ee32bcc47b2765c8691952\">376efed</a>: fix(ci): add dependencies for build test\n\ninstall libcriterion-dev",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/nCook/commit/55cb7a28711e6f57a945739273297889c16f30c1\">55cb7a2</a>: fix(codecov): install libsqlite3-dev\n- <a href=\"https://github.com/Neptunium931/nCook/commit/3c2553b453cb3097c7c179aa8862ef362f2363ca\">3c2553b</a>: fix: name of db file",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 160 times)\n2. fix (used 51 times)\n3. update (used 37 times)\n4. test (used 31 times)\n5. remove (used 25 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 161 times)\n2. fix (used 51 times)\n3. update (used 37 times)\n4. test (used 31 times)\n5. file (used 25 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
