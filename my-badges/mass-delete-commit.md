@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/blog/commit/6370c129e89270dc45c6a6067d13b78ddf2b2631">6370c12</a>
+- <a href="https://github.com/Neptunium931/dotfile/commit/4c6f780779ae7d70396f0c71bb3c834d369ae87b">4c6f780</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
