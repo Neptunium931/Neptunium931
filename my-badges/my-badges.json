@@ -17,21 +17,21 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Advent-of-Code/commit/fb36d4a372f8b2ce9cf325a018420dffbc502e00\">fb36d4a</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/4248e1b6f71d8102c79dd7c95db92ba45a5f3155\">4248e1b</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/7a0ff7a4f718fc4ffff364214570e4081a9597c2\">7a0ff7a</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/4aa81209f10dd44b94a6adccb7c5c00546b4ca0a\">4aa8120</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/db5f702453b7640332ff05b5f291ad6285ca16b1\">db5f702</a>\n- <a href=\"https://github.com/Neptunium931/nbs/commit/bff671891fedcc00a725711f81b628fff6916790\">bff6718</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/nlogger/commit/eee00c04dadf3e3f7d9fe4f373a54bc2ce6873dd\">eee00c0</a>\n- <a href=\"https://github.com/Neptunium931/Advent-of-Code/commit/fb36d4a372f8b2ce9cf325a018420dffbc502e00\">fb36d4a</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/4248e1b6f71d8102c79dd7c95db92ba45a5f3155\">4248e1b</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/7a0ff7a4f718fc4ffff364214570e4081a9597c2\">7a0ff7a</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/4aa81209f10dd44b94a6adccb7c5c00546b4ca0a\">4aa8120</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/db5f702453b7640332ff05b5f291ad6285ca16b1\">db5f702</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/nCook/commit/55cb7a28711e6f57a945739273297889c16f30c1\">55cb7a2</a>: fix(codecov): install libsqlite3-dev\n- <a href=\"https://github.com/Neptunium931/nCook/commit/3c2553b453cb3097c7c179aa8862ef362f2363ca\">3c2553b</a>: fix: name of db file",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/nlogger/commit/94708d30d2315582f9b32393fc2047136b8b9678\">94708d3</a>: fix(configure): source file\n- <a href=\"https://github.com/Neptunium931/nlogger/commit/cef048fcb87918c731c78c52a392fd00e7fae3b3\">cef048f</a>: fix(Makefile): path of nlogger",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 166 times)\n2. fix (used 51 times)\n3. test (used 31 times)\n4. update (used 29 times)\n5. file (used 29 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 166 times)\n2. fix (used 51 times)\n3. test (used 31 times)\n4. file (used 30 times)\n5. update (used 29 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/aeab1c71be205bae6f77eb8284eb2c6e019d509c\">aeab1c7</a>\n- <a href=\"https://github.com/Neptunium931/nCook/commit/7f83926b508340df26ef54043a7b27939d03f8f5\">7f83926</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/nlogger/commit/eee00c04dadf3e3f7d9fe4f373a54bc2ce6873dd\">eee00c0</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/aeab1c71be205bae6f77eb8284eb2c6e019d509c\">aeab1c7</a>\n- <a href=\"https://github.com/Neptunium931/nCook/commit/7f83926b508340df26ef54043a7b27939d03f8f5\">7f83926</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {

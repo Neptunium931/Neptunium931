@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/nCook/commit/55cb7a28711e6f57a945739273297889c16f30c1">55cb7a2</a>: fix(codecov): install libsqlite3-dev
-- <a href="https://github.com/Neptunium931/nCook/commit/3c2553b453cb3097c7c179aa8862ef362f2363ca">3c2553b</a>: fix: name of db file
+- <a href="https://github.com/Neptunium931/nlogger/commit/94708d30d2315582f9b32393fc2047136b8b9678">94708d3</a>: fix(configure): source file
+- <a href="https://github.com/Neptunium931/nlogger/commit/cef048fcb87918c731c78c52a392fd00e7fae3b3">cef048f</a>: fix(Makefile): path of nlogger
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
