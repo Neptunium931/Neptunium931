@@ -31,14 +31,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 213 times)\n2. fix (used 53 times)\n3. file (used 34 times)\n4. remove (used 31 times)\n5. test (used 31 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 214 times)\n2. fix (used 54 times)\n3. file (used 36 times)\n4. remove (used 31 times)\n5. test (used 31 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Cnetworking/commit/5861ee626cd1d35ac94dfe0b8f6d36f1291b3992\">5861ee6</a>: fix yaml for integrationTests\n- <a href=\"https://github.com/Neptunium931/Cnetworking/commit/abcd3d83513123ce494edc6570081b1aa0afa8fc\">abcd3d8</a>: fix typo\n- <a href=\"https://github.com/Neptunium931/Cnetworking/commit/e51039a305f72d5d9e18153f698ab97587c515c7\">e51039a</a>: fix(misc):",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/b1dfadea189c5991ea8e4dd94a1ce6048641b706\">b1dfade</a>: fix(initFile): add file exten of genereate file\n- <a href=\"https://github.com/Neptunium931/ncc/commit/515210c3ad76e9491774deaad03c994eecce5e32\">515210c</a>: fix(realloc): call malloc with size and fix dst and src for memcpy\n- <a href=\"https://github.com/Neptunium931/ncc/commit/91bfabdb402645bc8e0a843945f663efc8f01163\">91bfabd</a>: fix(memcpy): feat POSIX\n\nhttps://pubs.opengroup.org/onlinepubs/9799919799/functions/memcpy.html",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
