@@ -4,10 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/ncc/commit/0b2caf6228c01026e97f1ff4dda8a3ac1a35205d">0b2caf6</a>: fix(strndup): remove hack for copy a valide size
-- <a href="https://github.com/Neptunium931/ncc/commit/7b120513a4de84c8f993e41d56656ca02aa6b8ff">7b12051</a>: fix(lexer): add check is word is started if not ignore endWord
-- <a href="https://github.com/Neptunium931/ncc/commit/76a07ef39f0725422ed0d5fc8ba2b44846bc5247">76a07ef</a>: fix(strndup): strndup copy one more char
-- <a href="https://github.com/Neptunium931/ncc/commit/83e641646f5553ea5b74dddcb5963f8d023a96ca">83e6416</a>: fix(strndup): strndup copy one more char
+- <a href="https://github.com/Neptunium931/ncc/commit/b5d17d9723fdbd51e3954a3d416fe9db7aefeda8">b5d17d9</a>: fix(codegen): Segmentation fault is source file is empty
+- <a href="https://github.com/Neptunium931/ncc/commit/b1dfadea189c5991ea8e4dd94a1ce6048641b706">b1dfade</a>: fix(initFile): add file exten of genereate file
+- <a href="https://github.com/Neptunium931/ncc/commit/515210c3ad76e9491774deaad03c994eecce5e32">515210c</a>: fix(realloc): call malloc with size and fix dst and src for memcpy
+- <a href="https://github.com/Neptunium931/ncc/commit/91bfabdb402645bc8e0a843945f663efc8f01163">91bfabd</a>: fix(memcpy): feat POSIX
+
+https://pubs.opengroup.org/onlinepubs/9799919799/functions/memcpy.html
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
