@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/stringTemplates/commit/b1aa7566ea11e407320242fd84b664a6c901de29\">b1aa756</a>\n- <a href=\"https://github.com/Neptunium931/nlogger/commit/eee00c04dadf3e3f7d9fe4f373a54bc2ce6873dd\">eee00c0</a>\n- <a href=\"https://github.com/Neptunium931/Advent-of-Code/commit/fb36d4a372f8b2ce9cf325a018420dffbc502e00\">fb36d4a</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/4248e1b6f71d8102c79dd7c95db92ba45a5f3155\">4248e1b</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/7a0ff7a4f718fc4ffff364214570e4081a9597c2\">7a0ff7a</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/4aa81209f10dd44b94a6adccb7c5c00546b4ca0a\">4aa8120</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/nlogger/commit/eee00c04dadf3e3f7d9fe4f373a54bc2ce6873dd\">eee00c0</a>\n- <a href=\"https://github.com/Neptunium931/Advent-of-Code/commit/fb36d4a372f8b2ce9cf325a018420dffbc502e00\">fb36d4a</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/4248e1b6f71d8102c79dd7c95db92ba45a5f3155\">4248e1b</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/7a0ff7a4f718fc4ffff364214570e4081a9597c2\">7a0ff7a</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/4aa81209f10dd44b94a6adccb7c5c00546b4ca0a\">4aa8120</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/db5f702453b7640332ff05b5f291ad6285ca16b1\">db5f702</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 217 times)\n2. fix (used 55 times)\n3. file (used 37 times)\n4. update (used 36 times)\n5. test (used 32 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 216 times)\n2. fix (used 55 times)\n3. file (used 37 times)\n4. update (used 35 times)\n5. remove (used 31 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
