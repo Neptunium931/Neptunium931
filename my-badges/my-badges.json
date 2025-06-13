@@ -10,7 +10,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/92dbb791702a306c8845596357d6fa19602d7027\">92dbb79</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/9125985efebb263a336d28b6aa39875545b4a8df\">9125985</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/b9584a5affa56dcd47a906de09a7e31a6f769766\">b9584a5</a>\n- <a href=\"https://github.com/Neptunium931/blog/commit/c85440929000b6b0dbfd5a0aba2776bf6a8cb5ef\">c854409</a>\n- <a href=\"https://github.com/Neptunium931/nCook/commit/7ac8810af9759fca40c804659323ee1851bb0d5c\">7ac8810</a>\n- <a href=\"https://github.com/Neptunium931/nCook/commit/00871946e0b2096ad954cc7efe5c3e1c72e9a1fb\">0087194</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/CPL/commit/977f3dc7422cd2d1fb9031760350fe5227dbaf93\">977f3dc</a>\n- <a href=\"https://github.com/Neptunium931/CPL/commit/2b7f9e66c847064eb732c16174d760064e66f331\">2b7f9e6</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/92dbb791702a306c8845596357d6fa19602d7027\">92dbb79</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/9125985efebb263a336d28b6aa39875545b4a8df\">9125985</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/b9584a5affa56dcd47a906de09a7e31a6f769766\">b9584a5</a>\n- <a href=\"https://github.com/Neptunium931/blog/commit/c85440929000b6b0dbfd5a0aba2776bf6a8cb5ef\">c854409</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -117,5 +117,12 @@
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/CPL/commit/113b194f6f666f2e7cb526764759c29a8f113e2f\">113b194</a>\n- <a href=\"https://github.com/Neptunium931/CPL/commit/db10f73f78f3c502b0f4099caf44fad445715557\">db10f73</a>\n- <a href=\"https://github.com/Neptunium931/CPL/commit/6b73a7be77710b7846a09e1c62b28981024ee1e9\">6b73a7b</a>\n- <a href=\"https://github.com/Neptunium931/CPL/commit/977f3dc7422cd2d1fb9031760350fe5227dbaf93\">977f3dc</a>\n- <a href=\"https://github.com/Neptunium931/CPL/commit/2b7f9e66c847064eb732c16174d760064e66f331\">2b7f9e6</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
   }
 ]
