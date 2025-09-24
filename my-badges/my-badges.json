@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 245 times)\n2. fix (used 58 times)\n3. update (used 43 times)\n4. file (used 40 times)\n5. remove (used 34 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 249 times)\n2. fix (used 58 times)\n3. update (used 43 times)\n4. file (used 40 times)\n5. remove (used 34 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/snapshotDir/commit/a16652b59fbb684b495453d1303be9552293747c\">a16652b</a>\n- <a href=\"https://github.com/Neptunium931/nlogger/commit/eee00c04dadf3e3f7d9fe4f373a54bc2ce6873dd\">eee00c0</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/aeab1c71be205bae6f77eb8284eb2c6e019d509c\">aeab1c7</a>\n- <a href=\"https://github.com/Neptunium931/nCook/commit/7f83926b508340df26ef54043a7b27939d03f8f5\">7f83926</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/codeforces/commit/fdf9fa78b52ef3d1669db56dd1bfae44e8981f1e\">fdf9fa7</a>\n- <a href=\"https://github.com/Neptunium931/snapshotDir/commit/a16652b59fbb684b495453d1303be9552293747c\">a16652b</a>\n- <a href=\"https://github.com/Neptunium931/nlogger/commit/eee00c04dadf3e3f7d9fe4f373a54bc2ce6873dd\">eee00c0</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/aeab1c71be205bae6f77eb8284eb2c6e019d509c\">aeab1c7</a>\n- <a href=\"https://github.com/Neptunium931/nCook/commit/7f83926b508340df26ef54043a7b27939d03f8f5\">7f83926</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
