@@ -10,7 +10,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/CPL/commit/977f3dc7422cd2d1fb9031760350fe5227dbaf93\">977f3dc</a>\n- <a href=\"https://github.com/Neptunium931/CPL/commit/2b7f9e66c847064eb732c16174d760064e66f331\">2b7f9e6</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/92dbb791702a306c8845596357d6fa19602d7027\">92dbb79</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/9125985efebb263a336d28b6aa39875545b4a8df\">9125985</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/b9584a5affa56dcd47a906de09a7e31a6f769766\">b9584a5</a>\n- <a href=\"https://github.com/Neptunium931/blog/commit/c85440929000b6b0dbfd5a0aba2776bf6a8cb5ef\">c854409</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/76a0a8718d4be5dfd000b2d09f0eeed8d770143b\">76a0a87</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/6cc3d1353b527d524bc4a451349f60026e7a88fc\">6cc3d13</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/dbb611d9dbf69b73aaee037960caf944d394c797\">dbb611d</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/8c6a9075159738ff65c694f064a5500255262e1e\">8c6a907</a>\n- <a href=\"https://github.com/Neptunium931/CPL/commit/977f3dc7422cd2d1fb9031760350fe5227dbaf93\">977f3dc</a>\n- <a href=\"https://github.com/Neptunium931/CPL/commit/2b7f9e66c847064eb732c16174d760064e66f331\">2b7f9e6</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -31,14 +31,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 252 times)\n2. fix (used 58 times)\n3. update (used 43 times)\n4. file (used 40 times)\n5. remove (used 34 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 256 times)\n2. fix (used 58 times)\n3. update (used 44 times)\n4. file (used 41 times)\n5. remove (used 36 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/Cnetworking/commit/5861ee626cd1d35ac94dfe0b8f6d36f1291b3992\">5861ee6</a>: fix yaml for integrationTests\n- <a href=\"https://github.com/Neptunium931/Cnetworking/commit/abcd3d83513123ce494edc6570081b1aa0afa8fc\">abcd3d8</a>: fix typo\n- <a href=\"https://github.com/Neptunium931/Cnetworking/commit/e51039a305f72d5d9e18153f698ab97587c515c7\">e51039a</a>: fix(misc):",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/e8887ed4aaf28b71b59efb1e0ca5c111e16975ad\">e8887ed</a>: fix(codegen): correct the offset of the function name and the fd\n- <a href=\"https://github.com/Neptunium931/ncc/commit/a07e2ec158cbca55ac77692212ef4d0c4fd47524\">a07e2ec</a>: fix(code): the left branch should be treated first\n- <a href=\"https://github.com/Neptunium931/ncc/commit/7d6636d2683cd9256eb59dad3372ff1dd31d49fd\">7d6636d</a>: fix: segfault when calling a function with args",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/snapshotDir/commit/4bfec9d7682be45dcc8534d3dfe38e690de566cc\">4bfec9d</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/300d5e77e7e097e41cafdf6b182cac52597e31d0\">300d5e7</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/76a07ef39f0725422ed0d5fc8ba2b44846bc5247\">76a07ef</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/83e641646f5553ea5b74dddcb5963f8d023a96ca\">83e6416</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/e4fb0d327e94d0246fed5322560a015b2f496eea\">e4fb0d3</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/ef307fb5abea03f74f478b1d3f08977118e5d72e\">ef307fb</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/538e4b81ebb1d3eb0ee5bc3d12087e91a999aa68\">538e4b8</a>\n- <a href=\"https://github.com/Neptunium931/snapshotDir/commit/4bfec9d7682be45dcc8534d3dfe38e690de566cc\">4bfec9d</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/01871f947f07fa92eafc62c2df95a19b44d80187\">01871f9</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/82c8e8b9509e26d61db11141262364e19cf2165c\">82c8e8b</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {

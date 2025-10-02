@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/Cnetworking/commit/5861ee626cd1d35ac94dfe0b8f6d36f1291b3992">5861ee6</a>: fix yaml for integrationTests
-- <a href="https://github.com/Neptunium931/Cnetworking/commit/abcd3d83513123ce494edc6570081b1aa0afa8fc">abcd3d8</a>: fix typo
-- <a href="https://github.com/Neptunium931/Cnetworking/commit/e51039a305f72d5d9e18153f698ab97587c515c7">e51039a</a>: fix(misc):
+- <a href="https://github.com/Neptunium931/ncc/commit/e8887ed4aaf28b71b59efb1e0ca5c111e16975ad">e8887ed</a>: fix(codegen): correct the offset of the function name and the fd
+- <a href="https://github.com/Neptunium931/ncc/commit/a07e2ec158cbca55ac77692212ef4d0c4fd47524">a07e2ec</a>: fix(code): the left branch should be treated first
+- <a href="https://github.com/Neptunium931/ncc/commit/7d6636d2683cd9256eb59dad3372ff1dd31d49fd">7d6636d</a>: fix: segfault when calling a function with args
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
