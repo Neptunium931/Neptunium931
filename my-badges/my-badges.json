@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/CPL/commit/2e217b96fdb7f1c681ae6c55b03c857725fa40af\">2e217b9</a>\n- <a href=\"https://github.com/Neptunium931/CPL/commit/784ee99662a4b0281bcdd69f75ca770ea68ccf39\">784ee99</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/90b0eb6f9b6fbead33648d50eabc855827a9f768\">90b0eb6</a>\n- <a href=\"https://github.com/Neptunium931/nlogger/commit/eee00c04dadf3e3f7d9fe4f373a54bc2ce6873dd\">eee00c0</a>\n- <a href=\"https://github.com/Neptunium931/conference/commit/ca6145377e12daa49fc1b8342ef25ecb1958bdee\">ca61453</a>\n- <a href=\"https://github.com/Neptunium931/Advent-of-Code/commit/fb36d4a372f8b2ce9cf325a018420dffbc502e00\">fb36d4a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/CPL/commit/2e217b96fdb7f1c681ae6c55b03c857725fa40af\">2e217b9</a>\n- <a href=\"https://github.com/Neptunium931/CPL/commit/784ee99662a4b0281bcdd69f75ca770ea68ccf39\">784ee99</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/90b0eb6f9b6fbead33648d50eabc855827a9f768\">90b0eb6</a>\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/c4dfbb7975ffac5e9fab097e5d441e92d2d262ea\">c4dfbb7</a>\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/7190abc31c17dd23f182acddec8a17ec795c62f2\">7190abc</a>\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/4beaf72d81dbc0c4fe4ce1e1a6539203b64640a8\">4beaf72</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 257 times)\n2. fix (used 59 times)\n3. update (used 44 times)\n4. file (used 41 times)\n5. test (used 38 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 281 times)\n2. fix (used 59 times)\n3. update (used 49 times)\n4. file (used 44 times)\n5. remove (used 40 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -72,8 +72,8 @@
   {
     "id": "dead-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"dead\" 2 times.",
-    "body": "- <a href=\"https://github.com/Neptunium931/CPL/commit/5303097ed8d684d2713fb38a3deadcc9ffdbbb3d\">5303097ed8d684d2713fb38a3<strong>dead</strong>cc9ffdbbb3d</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/5cbc77dead744762bcc39b37fbb15cb38af060cd\">5cbc77<strong>dead</strong>744762bcc39b37fbb15cb38af060cd</a>",
+    "desc": "I pushed a commit with \"dead\" 3 times.",
+    "body": "- <a href=\"https://github.com/Neptunium931/CPL/commit/5303097ed8d684d2713fb38a3deadcc9ffdbbb3d\">5303097ed8d684d2713fb38a3<strong>dead</strong>cc9ffdbbb3d</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/5cbc77dead744762bcc39b37fbb15cb38af060cd\">5cbc77<strong>dead</strong>744762bcc39b37fbb15cb38af060cd</a>\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/c50297ac6c5325f93b1d3b89dead9602c7219b72\">c50297ac6c5325f93b1d3b89<strong>dead</strong>9602c7219b72</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
