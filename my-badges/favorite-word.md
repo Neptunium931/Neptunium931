@@ -6,7 +6,7 @@ My favorite commit message words are:
 
 1. add (used 282 times)
 2. fix (used 60 times)
-3. update (used 49 times)
+3. update (used 50 times)
 4. file (used 44 times)
 5. remove (used 40 times)
 
