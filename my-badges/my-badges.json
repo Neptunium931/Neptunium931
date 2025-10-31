@@ -10,14 +10,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/7b4d2dfc069d7ad833fbce1434184ceb04b457e3\">7b4d2df</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/76a0a8718d4be5dfd000b2d09f0eeed8d770143b\">76a0a87</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/6cc3d1353b527d524bc4a451349f60026e7a88fc\">6cc3d13</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/dbb611d9dbf69b73aaee037960caf944d394c797\">dbb611d</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/8c6a9075159738ff65c694f064a5500255262e1e\">8c6a907</a>\n- <a href=\"https://github.com/Neptunium931/CPL/commit/977f3dc7422cd2d1fb9031760350fe5227dbaf93\">977f3dc</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/7b4d2dfc069d7ad833fbce1434184ceb04b457e3\">7b4d2df</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/1f320e0b3f82c3c8ca50ffd44fedc1c6e5722363\">1f320e0</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/76a0a8718d4be5dfd000b2d09f0eeed8d770143b\">76a0a87</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/6cc3d1353b527d524bc4a451349f60026e7a88fc\">6cc3d13</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/dbb611d9dbf69b73aaee037960caf944d394c797\">dbb611d</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/8c6a9075159738ff65c694f064a5500255262e1e\">8c6a907</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/CPL/commit/2e217b96fdb7f1c681ae6c55b03c857725fa40af\">2e217b9</a>\n- <a href=\"https://github.com/Neptunium931/CPL/commit/784ee99662a4b0281bcdd69f75ca770ea68ccf39\">784ee99</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/90b0eb6f9b6fbead33648d50eabc855827a9f768\">90b0eb6</a>\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/c4dfbb7975ffac5e9fab097e5d441e92d2d262ea\">c4dfbb7</a>\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/7190abc31c17dd23f182acddec8a17ec795c62f2\">7190abc</a>\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/4beaf72d81dbc0c4fe4ce1e1a6539203b64640a8\">4beaf72</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/packers/commit/d324c04aef00a6893c8cf5b96e071d32ec8e3b18\">d324c04</a>\n- <a href=\"https://github.com/Neptunium931/CPL/commit/2e217b96fdb7f1c681ae6c55b03c857725fa40af\">2e217b9</a>\n- <a href=\"https://github.com/Neptunium931/CPL/commit/784ee99662a4b0281bcdd69f75ca770ea68ccf39\">784ee99</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/90b0eb6f9b6fbead33648d50eabc855827a9f768\">90b0eb6</a>\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/c4dfbb7975ffac5e9fab097e5d441e92d2d262ea\">c4dfbb7</a>\n- <a href=\"https://github.com/Neptunium931/dotfile/commit/7190abc31c17dd23f182acddec8a17ec795c62f2\">7190abc</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 288 times)\n2. fix (used 60 times)\n3. update (used 50 times)\n4. file (used 44 times)\n5. remove (used 40 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 304 times)\n2. update (used 50 times)\n3. test (used 43 times)\n4. not (used 34 times)\n5. install (used 14 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/conference/commit/a8faf97cde49dd939d0cda12afc0ba1f17995815\">a8faf97</a>\n- <a href=\"https://github.com/Neptunium931/codeforces/commit/0216be891ae0e7c74600cb85b1efeb3372089fc5\">0216be8</a>\n- <a href=\"https://github.com/Neptunium931/codeforces/commit/fdf9fa78b52ef3d1669db56dd1bfae44e8981f1e\">fdf9fa7</a>\n- <a href=\"https://github.com/Neptunium931/snapshotDir/commit/a16652b59fbb684b495453d1303be9552293747c\">a16652b</a>\n- <a href=\"https://github.com/Neptunium931/nlogger/commit/eee00c04dadf3e3f7d9fe4f373a54bc2ce6873dd\">eee00c0</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/aeab1c71be205bae6f77eb8284eb2c6e019d509c\">aeab1c7</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/conference/commit/a8faf97cde49dd939d0cda12afc0ba1f17995815\">a8faf97</a>\n- <a href=\"https://github.com/Neptunium931/codeforces/commit/0216be891ae0e7c74600cb85b1efeb3372089fc5\">0216be8</a>\n- <a href=\"https://github.com/Neptunium931/codeforces/commit/fdf9fa78b52ef3d1669db56dd1bfae44e8981f1e\">fdf9fa7</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/d022dbbd11510f25bbc9ad0d24c679b3489b932a\">d022dbb</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/d705d814abd38a3a81f76fd097a1f3805dd6ccaa\">d705d81</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/7d36cd335a4385d98c193ef8d3695f2a3105fd82\">7d36cd3</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
