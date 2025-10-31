@@ -38,7 +38,7 @@
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/packers/commit/cd06e347276e3920512bb35b13bda7097e3c42eb\">cd06e34</a>: fix(ci): add submodule\n- <a href=\"https://github.com/Neptunium931/packers/commit/b27a56e92efa3c75a3c077fe9d57e319988fef9f\">b27a56e</a>: fix(warnings): fix all warnings\n- <a href=\"https://github.com/Neptunium931/packers/commit/38e01265bc438c29b4aecce66c23fd59673c12ee\">38e0126</a>: fix(packers): change toml file name",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/e8887ed4aaf28b71b59efb1e0ca5c111e16975ad\">e8887ed</a>: fix(codegen): correct the offset of the function name and the fd\n- <a href=\"https://github.com/Neptunium931/ncc/commit/a07e2ec158cbca55ac77692212ef4d0c4fd47524\">a07e2ec</a>: fix(code): the left branch should be treated first\n- <a href=\"https://github.com/Neptunium931/ncc/commit/7d6636d2683cd9256eb59dad3372ff1dd31d49fd\">7d6636d</a>: fix: segfault when calling a function with args",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "fix-4",
     "tier": 3,
     "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/b5d17d9723fdbd51e3954a3d416fe9db7aefeda8\">b5d17d9</a>: fix(codegen): Segmentation fault is source file is empty\n- <a href=\"https://github.com/Neptunium931/ncc/commit/b1dfadea189c5991ea8e4dd94a1ce6048641b706\">b1dfade</a>: fix(initFile): add file exten of genereate file\n- <a href=\"https://github.com/Neptunium931/ncc/commit/515210c3ad76e9491774deaad03c994eecce5e32\">515210c</a>: fix(realloc): call malloc with size and fix dst and src for memcpy\n- <a href=\"https://github.com/Neptunium931/ncc/commit/91bfabdb402645bc8e0a843945f663efc8f01163\">91bfabd</a>: fix(memcpy): feat POSIX\n\nhttps://pubs.opengroup.org/onlinepubs/9799919799/functions/memcpy.html",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/packers/commit/bcaaaa161d330f06bc15299d396c81467e787199\">bcaaaa1</a>: fix(warnings): clang++ warnings\n- <a href=\"https://github.com/Neptunium931/packers/commit/cd06e347276e3920512bb35b13bda7097e3c42eb\">cd06e34</a>: fix(ci): add submodule\n- <a href=\"https://github.com/Neptunium931/packers/commit/b27a56e92efa3c75a3c077fe9d57e319988fef9f\">b27a56e</a>: fix(warnings): fix all warnings\n- <a href=\"https://github.com/Neptunium931/packers/commit/38e01265bc438c29b4aecce66c23fd59673c12ee\">38e0126</a>: fix(packers): change toml file name",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "spooky-commit",
     "tier": 0,
     "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/packers/commit/cd06e347276e3920512bb35b13bda7097e3c42eb\">cd06e34</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/b27a56e92efa3c75a3c077fe9d57e319988fef9f\">b27a56e</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/38e01265bc438c29b4aecce66c23fd59673c12ee\">38e0126</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/af1e5b3452ed97c30231e064e2b60e9a276e9e8a\">af1e5b3</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/b103b621ab4db487621519ab8c2530f58f9b1ea9\">b103b62</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/12389a22d9908154c465d0480f2e061a8b692bb7\">12389a2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/packers/commit/ff161044be6f4c10c0aa3e3da09e2691909e9788\">ff16104</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/bcaaaa161d330f06bc15299d396c81467e787199\">bcaaaa1</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/cd06e347276e3920512bb35b13bda7097e3c42eb\">cd06e34</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/b27a56e92efa3c75a3c077fe9d57e319988fef9f\">b27a56e</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/38e01265bc438c29b4aecce66c23fd59673c12ee\">38e0126</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/af1e5b3452ed97c30231e064e2b60e9a276e9e8a\">af1e5b3</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   },
   {

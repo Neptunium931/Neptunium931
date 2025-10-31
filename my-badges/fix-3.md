@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/packers/commit/cd06e347276e3920512bb35b13bda7097e3c42eb">cd06e34</a>: fix(ci): add submodule
-- <a href="https://github.com/Neptunium931/packers/commit/b27a56e92efa3c75a3c077fe9d57e319988fef9f">b27a56e</a>: fix(warnings): fix all warnings
-- <a href="https://github.com/Neptunium931/packers/commit/38e01265bc438c29b4aecce66c23fd59673c12ee">38e0126</a>: fix(packers): change toml file name
+- <a href="https://github.com/Neptunium931/ncc/commit/e8887ed4aaf28b71b59efb1e0ca5c111e16975ad">e8887ed</a>: fix(codegen): correct the offset of the function name and the fd
+- <a href="https://github.com/Neptunium931/ncc/commit/a07e2ec158cbca55ac77692212ef4d0c4fd47524">a07e2ec</a>: fix(code): the left branch should be treated first
+- <a href="https://github.com/Neptunium931/ncc/commit/7d6636d2683cd9256eb59dad3372ff1dd31d49fd">7d6636d</a>: fix: segfault when calling a function with args
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
