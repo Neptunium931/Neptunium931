@@ -29,4 +29,4 @@ I enjoy reverse engineering, systems programming, and compiler creation.
 <a href="my-badges/delorean.md"><img src="https://my-badges.github.io/my-badges/delorean.png" alt="I committed on the day Doctor Emmett Brown invented the flux capacitor!" title="I committed on the day Doctor Emmett Brown invented the flux capacitor!" width="64"></a>
 <!-- my-badges end -->
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Neptunium93&layout=compact)](https://github.com/Neptunium931)
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Neptunium93&layout=compact)](https://github.com/Neptunium931) -->
