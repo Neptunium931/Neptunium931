@@ -105,13 +105,6 @@
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   },
   {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
-  },
-  {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
@@ -138,5 +131,12 @@
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/packers/commit/62555af72839afa4baf002ee4989abba001dad8a\">62555af</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/06995ea15edb9292e7e7335b2580f4a6bd959de3\">06995ea</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/8fae3a0b29218235d68942fe307273558a4c0c19\">8fae3a0</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/a7e0c46fe5f0cd1b894294e1c009228d165e4336\">a7e0c46</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/f4a4bd327f0ccbaafb37abd2e76260ca028c755e\">f4a4bd3</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   }
 ]
