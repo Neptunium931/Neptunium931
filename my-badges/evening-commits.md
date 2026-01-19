@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/packers/commit/e2e1dea22fe5502a1fc2a9935c5808d1a6a7ff98">e2e1dea</a>
+- <a href="https://github.com/Neptunium931/packers/commit/5bf8338a57a28332ac4eb04ce6b037114cffdfb6">5bf8338</a>
 - <a href="https://github.com/Neptunium931/tree-sitter-asm/commit/b252c1e7642b5df07894d1d5a54f363e2b6b076c">b252c1e</a>
 - <a href="https://github.com/Neptunium931/tree-sitter-asm/commit/19d790fb84d3638789858a2c40f1e22ea8d672b0">19d790f</a>
 - <a href="https://github.com/Neptunium931/packers/commit/d324c04aef00a6893c8cf5b96e071d32ec8e3b18">d324c04</a>
