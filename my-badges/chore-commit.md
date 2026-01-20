@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/nlogger/commit/8375339160b21d4c559b5b64ab31fa185926f34a">8375339</a>: chore(log): remove comemed code
+- <a href="https://github.com/Neptunium931/packers/commit/5bb36b32c4ec2f799ea5f5f4d3c3996f9908d74d">5bb36b3</a>: chore: update pre-commit config
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
