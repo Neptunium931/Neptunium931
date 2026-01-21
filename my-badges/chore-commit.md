@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/packers/commit/5bb36b32c4ec2f799ea5f5f4d3c3996f9908d74d">5bb36b3</a>: chore: update pre-commit config
+- <a href="https://github.com/Neptunium931/packers/commit/1a20b20ab33f813bb294eb5df2ccd74361279e77">1a20b20</a>: chore: run doxygen only if files changed
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
