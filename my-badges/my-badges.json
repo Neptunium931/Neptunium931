@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/988d4ce40ecba2c39e2501118d5fbe70170d5025\">988d4ce</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/5bf8338a57a28332ac4eb04ce6b037114cffdfb6\">5bf8338</a>\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/b252c1e7642b5df07894d1d5a54f363e2b6b076c\">b252c1e</a>\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/19d790fb84d3638789858a2c40f1e22ea8d672b0\">19d790f</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/d324c04aef00a6893c8cf5b96e071d32ec8e3b18\">d324c04</a>\n- <a href=\"https://github.com/Neptunium931/CPL/commit/2e217b96fdb7f1c681ae6c55b03c857725fa40af\">2e217b9</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/61130d40a9db67216cd91ae083b1ac2a09f1a339\">61130d4</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/988d4ce40ecba2c39e2501118d5fbe70170d5025\">988d4ce</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/5bf8338a57a28332ac4eb04ce6b037114cffdfb6\">5bf8338</a>\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/b252c1e7642b5df07894d1d5a54f363e2b6b076c\">b252c1e</a>\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/19d790fb84d3638789858a2c40f1e22ea8d672b0\">19d790f</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/d324c04aef00a6893c8cf5b96e071d32ec8e3b18\">d324c04</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 325 times)\n2. fix (used 70 times)\n3. update (used 53 times)\n4. test (used 46 times)\n5. file (used 45 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 326 times)\n2. fix (used 70 times)\n3. update (used 53 times)\n4. test (used 46 times)\n5. file (used 45 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
