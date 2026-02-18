@@ -33,4 +33,4 @@ I enjoy reverse engineering, systems programming, and compiler creation.
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <!-- my-badges end -->
 
-<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Neptunium93&layout=compact)](https://github.com/Neptunium931) -->
+[![Harlok's WakaTime stats](./profile/wakaTime.svg)](https://github.com/Neptunium931)
