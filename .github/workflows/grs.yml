@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -22,7 +24,7 @@ jobs:
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: wakaTime
+          card: wakatime
           options: username=${{ github.repository_owner }}&layout=compact
           path: profile/wakaTime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
