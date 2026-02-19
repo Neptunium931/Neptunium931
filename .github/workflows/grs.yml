@@ -25,7 +25,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=Neptunium93&layout=compact
+          options: username=Neptunium93&layout=compact&langs_count=60
           path: profile/wakaTime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           
