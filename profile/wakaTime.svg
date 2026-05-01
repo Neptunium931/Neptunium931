@@ -791,7 +791,7 @@
     <g transform="translate(230, 125)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 31 hrs 49 mins
+        YAML - 31 hrs 51 mins
       </text>
     </g>
   
@@ -1001,7 +1001,7 @@
     <g transform="translate(230, 500)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        gitrebase - 1 hr 14 mins
+        gitrebase - 1 hr 15 mins
       </text>
     </g>
   
