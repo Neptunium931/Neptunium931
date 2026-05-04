@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/Neptunium931/tree-sitter-asm/commit/fb0abd63488f03f1a0e6153645917f2cc3ee75a6">fb0abd6</a>
 - <a href="https://github.com/Neptunium931/tree-sitter-asm/commit/0e769fea77359615519b8b4bfd93e108d734e8be">0e769fe</a>
 
 
