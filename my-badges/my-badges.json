@@ -10,7 +10,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/fb0abd63488f03f1a0e6153645917f2cc3ee75a6\">fb0abd6</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/e3a804a6f6a403b8d8097bc2bd27263d233a47e9\">e3a804a</a>\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/5f1792e647fdf1cfd9125318b801bdc5f5184132\">5f1792e</a>\n- <a href=\"https://github.com/Neptunium931/Neptunium931/commit/16a903e3cc9c0fa168acf3f5e3ff6bef870109a8\">16a903e</a>\n- <a href=\"https://github.com/Neptunium931/latex_template/commit/72018d36f0efde4442ebe123455109bfa58183aa\">72018d3</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/74dd0f0182068e66f5c2e7fda80d782ecf4a6472\">74dd0f0</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/e3a804a6f6a403b8d8097bc2bd27263d233a47e9\">e3a804a</a>\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/5f1792e647fdf1cfd9125318b801bdc5f5184132\">5f1792e</a>\n- <a href=\"https://github.com/Neptunium931/Neptunium931/commit/16a903e3cc9c0fa168acf3f5e3ff6bef870109a8\">16a903e</a>\n- <a href=\"https://github.com/Neptunium931/latex_template/commit/72018d36f0efde4442ebe123455109bfa58183aa\">72018d3</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/74dd0f0182068e66f5c2e7fda80d782ecf4a6472\">74dd0f0</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/1a20b20ab33f813bb294eb5df2ccd74361279e77\">1a20b20</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -143,7 +143,7 @@
     "id": "may-the-4th",
     "tier": 0,
     "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/conference/commit/bf6b634025de26d451f82912330d77e062c4d78a\">bf6b634</a>\n- <a href=\"https://github.com/Neptunium931/conference/commit/2b48a3dc7d4dc3180a4517d420ec32376eae840a\">2b48a3d</a>\n- <a href=\"https://github.com/Neptunium931/conference/commit/9032122dc7d1a6d593a53590fca3e5ba364f0d47\">9032122</a>\n- <a href=\"https://github.com/Neptunium931/conference/commit/516ce91b39057969ce6f8669d583720cac240be0\">516ce91</a>\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/fb0abd63488f03f1a0e6153645917f2cc3ee75a6\">fb0abd6</a>\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/0e769fea77359615519b8b4bfd93e108d734e8be\">0e769fe</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/conference/commit/bf6b634025de26d451f82912330d77e062c4d78a\">bf6b634</a>\n- <a href=\"https://github.com/Neptunium931/conference/commit/2b48a3dc7d4dc3180a4517d420ec32376eae840a\">2b48a3d</a>\n- <a href=\"https://github.com/Neptunium931/conference/commit/9032122dc7d1a6d593a53590fca3e5ba364f0d47\">9032122</a>\n- <a href=\"https://github.com/Neptunium931/conference/commit/516ce91b39057969ce6f8669d583720cac240be0\">516ce91</a>\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/0e769fea77359615519b8b4bfd93e108d734e8be\">0e769fe</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   }
 ]
