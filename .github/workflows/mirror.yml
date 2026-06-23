@@ -9,6 +9,7 @@ jobs:
   Mirror:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Mirror
         run: |
           git remote add push https://$CODEBERG_USENAME:$CODEBERG_TOKEN@codeberg.org/Neptunium93/ncc.git
