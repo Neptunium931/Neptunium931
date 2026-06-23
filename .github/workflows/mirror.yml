@@ -13,7 +13,7 @@ jobs:
       - name: Mirror
         run: |
           git remote add push https://$CODEBERG_USENAME:$CODEBERG_TOKEN@codeberg.org/Neptunium93/.profile.git
-          git fetch
+          git fetch push
           git push -u push master
         env:
           CODEBERG_USENAME: ${{ secrets.CODEBERG_USENAME }}
