@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Mirror
         run: |
-          git remote add push https://$CODEBERG_USENAME:$CODEBERG_TOKEN@codeberg.org/Neptunium93/ncc.git
+          git remote add push https://$CODEBERG_USENAME:$CODEBERG_TOKEN@codeberg.org/Neptunium93/.profile.git
           git push -u push master
         env:
           CODEBERG_USENAME: ${{ secrets.CODEBERG_USENAME }}
