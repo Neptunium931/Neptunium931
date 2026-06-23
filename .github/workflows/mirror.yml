@@ -1,0 +1,18 @@
+name: Mirror
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */2 * * *'
+
+jobs:
+  Mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mirror
+        run: |
+          git remote add push https://$CODEBERG_USENAME:$CODEBERG_TOKEN@codeberg.org/Neptunium93/ncc.git
+          git push -u push master
+        env:
+          CODEBERG_USENAME: ${{ secrets.CODEBERG_USENAME }}
+          CODEBERG_TOKEN: ${{ secrets.CODEBERG_TOKEN }}
