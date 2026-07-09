@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/a632f133c9227612d7cde83d32d0ff3b13e1b0a4\">a632f13</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/847f1ff29c34126439fc68077364925786764ef5\">847f1ff</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/61130d40a9db67216cd91ae083b1ac2a09f1a339\">61130d4</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/988d4ce40ecba2c39e2501118d5fbe70170d5025\">988d4ce</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/5bf8338a57a28332ac4eb04ce6b037114cffdfb6\">5bf8338</a>\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/6cb8e5f62e73870457bda98e5809596d3ffd024f\">6cb8e5f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/ncc/commit/a632f133c9227612d7cde83d32d0ff3b13e1b0a4\">a632f13</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/847f1ff29c34126439fc68077364925786764ef5\">847f1ff</a>\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/236225d3fb97e77500cf03ef54cb19dc6549ce4f\">236225d</a>\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/965072c89d656e8e0c0565ed8559ad38e8ca18b6\">965072c</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/61130d40a9db67216cd91ae083b1ac2a09f1a339\">61130d4</a>\n- <a href=\"https://github.com/Neptunium931/ncc/commit/988d4ce40ecba2c39e2501118d5fbe70170d5025\">988d4ce</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 360 times)\n2. fix (used 74 times)\n3. update (used 65 times)\n4. file (used 49 times)\n5. test (used 48 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 367 times)\n2. fix (used 76 times)\n3. update (used 65 times)\n4. file (used 49 times)\n5. not (used 48 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/957a247793927330971e3aafa3e2cbd46c098671\">957a247</a>: chore: tree-sitter generate",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/bebead5da452d7690eeaebe800d62044f55470d9\">bebead5</a>: chore: tree-sitter generate",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -136,7 +136,7 @@
     "id": "may-the-4th",
     "tier": 0,
     "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/conference/commit/bf6b634025de26d451f82912330d77e062c4d78a\">bf6b634</a>\n- <a href=\"https://github.com/Neptunium931/conference/commit/2b48a3dc7d4dc3180a4517d420ec32376eae840a\">2b48a3d</a>\n- <a href=\"https://github.com/Neptunium931/conference/commit/9032122dc7d1a6d593a53590fca3e5ba364f0d47\">9032122</a>\n- <a href=\"https://github.com/Neptunium931/conference/commit/516ce91b39057969ce6f8669d583720cac240be0\">516ce91</a>\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/0e769fea77359615519b8b4bfd93e108d734e8be\">0e769fe</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/236225d3fb97e77500cf03ef54cb19dc6549ce4f\">236225d</a>\n- <a href=\"https://github.com/Neptunium931/tree-sitter-asm/commit/965072c89d656e8e0c0565ed8559ad38e8ca18b6\">965072c</a>\n- <a href=\"https://github.com/Neptunium931/conference/commit/bf6b634025de26d451f82912330d77e062c4d78a\">bf6b634</a>\n- <a href=\"https://github.com/Neptunium931/conference/commit/2b48a3dc7d4dc3180a4517d420ec32376eae840a\">2b48a3d</a>\n- <a href=\"https://github.com/Neptunium931/conference/commit/9032122dc7d1a6d593a53590fca3e5ba364f0d47\">9032122</a>\n- <a href=\"https://github.com/Neptunium931/conference/commit/516ce91b39057969ce6f8669d583720cac240be0\">516ce91</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   },
   {

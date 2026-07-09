@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/tree-sitter-asm/commit/957a247793927330971e3aafa3e2cbd46c098671">957a247</a>: chore: tree-sitter generate
+- <a href="https://github.com/Neptunium931/tree-sitter-asm/commit/bebead5da452d7690eeaebe800d62044f55470d9">bebead5</a>: chore: tree-sitter generate
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
