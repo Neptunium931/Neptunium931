@@ -14,8 +14,6 @@ jobs:
         run: |
           git remote add push https://$CODEBERG_USENAME:$CODEBERG_TOKEN@codeberg.org/Neptunium93/.profile.git
           git fetch push
-          git log --oneline --decorate --graph --all -n 20
-          git status
           git push -u push master
         env:
           CODEBERG_USENAME: ${{ secrets.CODEBERG_USENAME }}
