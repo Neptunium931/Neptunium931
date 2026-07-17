@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/tree-sitter-asm/commit/3fae6c24d874678fcf8463c881b7134b3f2c25c3">3fae6c2</a>: chore: regenerate bindings
+- <a href="https://github.com/Neptunium931/tree-sitter-highlight/commit/7e7f40d6fedf4762bd9a066d78facdf0c1bac6f5">7e7f40d</a>: chore: remove unused workflow
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
