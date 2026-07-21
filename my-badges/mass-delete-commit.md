@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Neptunium931/tree-sitter-highlight/commit/eebba46fa0d86e9164e55ad2a10dfeb2de5551b4">eebba46</a>
+- <a href="https://github.com/Neptunium931/tree-sitter-highlight/commit/16d4827f6c0b4f047a10c3f1c7e59eb6a2b48b84">16d4827</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

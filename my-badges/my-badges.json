@@ -45,7 +45,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/conference/commit/a8faf97cde49dd939d0cda12afc0ba1f17995815\">a8faf97</a>\n- <a href=\"https://github.com/Neptunium931/codeforces/commit/0216be891ae0e7c74600cb85b1efeb3372089fc5\">0216be8</a>\n- <a href=\"https://github.com/Neptunium931/codeforces/commit/fdf9fa78b52ef3d1669db56dd1bfae44e8981f1e\">fdf9fa7</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/d022dbbd11510f25bbc9ad0d24c679b3489b932a\">d022dbb</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/d705d814abd38a3a81f76fd097a1f3805dd6ccaa\">d705d81</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/7d36cd335a4385d98c193ef8d3695f2a3105fd82\">7d36cd3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/tree-sitter-highlight/commit/4de3bf5a67e56dbf90bb2aa7eff59b28880f65c0\">4de3bf5</a>\n- <a href=\"https://github.com/Neptunium931/conference/commit/a8faf97cde49dd939d0cda12afc0ba1f17995815\">a8faf97</a>\n- <a href=\"https://github.com/Neptunium931/codeforces/commit/0216be891ae0e7c74600cb85b1efeb3372089fc5\">0216be8</a>\n- <a href=\"https://github.com/Neptunium931/codeforces/commit/fdf9fa78b52ef3d1669db56dd1bfae44e8981f1e\">fdf9fa7</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/d022dbbd11510f25bbc9ad0d24c679b3489b932a\">d022dbb</a>\n- <a href=\"https://github.com/Neptunium931/packers/commit/d705d814abd38a3a81f76fd097a1f3805dd6ccaa\">d705d81</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 368 times)\n2. fix (used 78 times)\n3. update (used 67 times)\n4. remove (used 60 times)\n5. file (used 50 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 375 times)\n2. fix (used 78 times)\n3. update (used 67 times)\n4. remove (used 62 times)\n5. merge (used 50 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -108,14 +108,14 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/tree-sitter-highlight/commit/eebba46fa0d86e9164e55ad2a10dfeb2de5551b4\">eebba46</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/tree-sitter-highlight/commit/16d4827f6c0b4f047a10c3f1c7e59eb6a2b48b84\">16d4827</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/tree-sitter-highlight/commit/eebba46fa0d86e9164e55ad2a10dfeb2de5551b4\">eebba46</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Neptunium931/tree-sitter-highlight/commit/16d4827f6c0b4f047a10c3f1c7e59eb6a2b48b84\">16d4827</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
